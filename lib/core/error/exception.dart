@@ -1,0 +1,3 @@
+
+
+class RemoteException implements Exception {}
